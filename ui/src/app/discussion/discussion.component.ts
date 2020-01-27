@@ -4,7 +4,6 @@ import { Discussion } from '../models';
 @Component({
   selector: 'app-discussion',
   templateUrl: './discussion.component.html',
-  styleUrls: ['./discussion.component.css']
 })
 export class DiscussionComponent implements OnInit {
 
